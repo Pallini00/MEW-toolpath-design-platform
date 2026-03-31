@@ -1,0 +1,9 @@
+We present a highly customizable toolpath design platform developed for melt electrowriting (MEW), designed to make advanced scaffold design more accessible, flexible, and efficient. Unlike conventional template-based platforms that rely mainly on predefined patterns, this software enables users to create custom architectures through an intuitive graphical user interface.
+
+The platform integrates multiple functional modules, including lattice generation, homogeneous pattern design, local deformation, Eulerian-circuit-based path generation, and toolpath correction. These modules can be used independently or combined into a unified workflow, allowing users to construct a wide variety of scaffold architectures, from regular lattices to complex heterogeneous and biomimetic patterns.
+
+For users seeking greater design freedom, the platform supports both built-in pattern libraries and externally defined inputs. In addition to creating customized point-based patterns, users can also import image-based designs and automatically convert them into continuous printable toolpaths through an Eulerian-circuit algorithm. This feature greatly expands the range of patterns that can be translated into MEW-compatible paths.
+
+To further improve fabrication fidelity, the platform also incorporates a toolpath correction function. By accounting for jet lag effects and user-defined printing parameters, it generates corrected printing point sets that help improve pattern accuracy during MEW fabrication.
+
+Overall, this platform shifts MEW toolpath design from simple pattern selection to generative creation. It lowers the technical barrier for non-specialists, accelerates design iteration, and opens new opportunities for creating sophisticated scaffold architectures for tissue engineering, biofabrication, and related fields.
